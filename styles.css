@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+h1, h2 {
+    color: #4e8620;
+}
+h3{
+    color: rgb(12, 95, 95);
+}
+
+.btn{
+    color: wheat;
+    background-color: rgb(12, 95, 95);
+}
+#confirmationDetails {
+    border: 1px solid #ccc;
+    padding: 10px;
+    
+    border-radius: 5px;
+    width: 100%;
+    max-width: 400px;
+    margin: auto;
+    
+}
+
+img {
+    max-width: 300px;
+    max-height: 300px;
+    margin-top: 10px;
+}
+
+button {
+    margin-top: 20px;
+    
+}
+
+#postcodeInput {
+    height: 40px;
+    width: 100%;
+    max-width: 400px;
+   
+    color: white;
+}
